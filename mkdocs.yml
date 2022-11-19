@@ -1,5 +1,6 @@
 site_name: springboot-kotlin-service-docs
 nav:
   - Home: index.md
+  - Swagger: swagger.md
 plugins:
   - techdocs-core
